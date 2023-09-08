@@ -1,0 +1,14 @@
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Aiden\OneDrive\Desktop\School\fall2k23\CECS 475\code labs\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
